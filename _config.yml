@@ -115,3 +115,4 @@ exclude:
   - stackbit-build.sh
   - stackbit-pull.js
 domain: 'https://oninfomatrix-f5c35.netlify.app'
+favicon: images/infomatrix-logo-226x64.png
